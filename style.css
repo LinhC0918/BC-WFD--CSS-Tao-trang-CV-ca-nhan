@@ -1,0 +1,69 @@
+#main {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.title {
+    height: 200px;
+    width: 80%;
+    float: left;
+    display: block;
+}
+
+.title h1 {
+    text-align: center;
+    color: purple;
+    font-size: 87px;
+    display: block;
+}
+
+.image {
+    height: 200px;
+    border: solid 2px black;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+.image img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.name {
+    height: 100px;
+    width: 100%;
+    clear: both;
+    background-color: maroon;
+}
+
+.name h2 {
+    color: greenyellow;
+    background-color: cadetblue;
+    text-align: center;
+    clear: both;
+    display: block;
+}
+
+.name p {
+    color: chocolate;
+    background-color: maroon;
+    display: block;
+}
+
+.profile {
+    height: 250px;
+    width: 100%;
+    background-color: darkgrey;
+
+}
+
+.profile h2 {
+    color: maroon;
+    background-color: cadetblue;
+    text-align: center;
+}
+
